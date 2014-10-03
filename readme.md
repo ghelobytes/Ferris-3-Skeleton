@@ -33,4 +33,4 @@ A starter project for using [Ferris 3](http://ferrisframework.org) on Google App
 Before you develop and deploy your application, you should make some basic changes to the configuration.
 
 1. Edit ``app.yaml`` and change the ``application``.
-2. Edit ``app/default-endpoint.yaml`` and fill in your API description and most importantly your application's ``client-id``. You can generate a client id via the [Coud Console](https://console.developers.google.com).
+2. Edit ``app/default-endpoint.yaml`` and fill in your API description and most importantly your application's ``client-id``. You can generate a client id via the [Developers Console](https://console.developers.google.com).
